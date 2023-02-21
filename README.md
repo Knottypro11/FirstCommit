@@ -1,9 +1,20 @@
 # FirstCommit
 # My first Commit
 
+
+# Read user input
+# echo user input
+
 #!/bin/bash
-  echo "What city are you from?"
+
+
+echo "What city are you from?"
 read city
-  echo "I have a friend from $city"
+
+echo "That's cool, I have a friend from $city."
+
+
+
+  
   
   
