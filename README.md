@@ -1,5 +1,5 @@
 # FirstCommit
-# My first Commit
+# You can run this Bash Script by accessing CityBashScript.sh
 
 
 # Read user input
