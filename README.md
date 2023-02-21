@@ -1,9 +1,9 @@
 # FirstCommit
-# You can run this Bash Script by accessing CityBashScript.sh
+You can run this Bash Script by accessing CityBashScript.sh
 
 
-# Read user input
-# echo user input
+Read user input
+echo user input
 
 #!/bin/bash
 
